@@ -151,7 +151,7 @@ const PaymentScreen = () => {
             <p className="text-gray-600 mt-2">Enter your payment details below</p>
           </div>
 
-          {/* Form */}
+
           <form onSubmit={handleSubmit} className="space-y-6">
             {/* Name Field */}
             <div>

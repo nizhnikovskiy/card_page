@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://[USERNAME].github.io/card_page",
+  "homepage": "https://nizhnikovskiy.github.io/card_page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
